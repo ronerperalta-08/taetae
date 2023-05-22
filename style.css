@@ -330,7 +330,7 @@ form .btn2{
     and (max-device-width: 600px) {
     #header {background-image: url(images/phone-background.png);
     }
-.nav ul li a{
+.container nav ul li a{
     font-size: 1.5rem;
 }
 .tab-titles p{
